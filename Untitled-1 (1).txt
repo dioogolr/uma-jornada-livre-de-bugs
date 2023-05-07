@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ferramentas de Construção | Sua Loja Online</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Início</a></li>
+				<li><a href="#">Produtos</a></li>
+				<li><a href="#">Sobre Nós</a></li>
+				<li><a href="#">Contato</a></li>
+			</ul>
+		</nav>
+		<h1>Ferramentas de Construção</h1>
+	</header>
+	<main>
+		<section class="hero">
+			<h2>As melhores ferramentas para sua obra</h2>
+			<p>Encontre tudo o que você precisa para construir ou reformar aqui na nossa loja online.</p>
+			<a href="#" class="cta">Compre agora</a>
+		</section>
+		<section class="products">
+			<h2>Nossos Produtos</h2>
+			<ul>
+				<li>
+					<a href="#">
+						<img src="product1.jpg" alt="Serra Circular">
+						<h3>Serra Circular</h3>
+						<p>R$ 299,99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="product2.jpg" alt="Furadeira">
+						<h3>Furadeira</h3>
+						<p>R$ 199,99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="product3.jpg" alt="Esmerilhadeira">
+						<h3>Esmerilhadeira</h3>
+						<p>R$ 349,99</p>
+					</a>
+				</li>
+			</ul>
+			<a href="#" class="cta">Ver todos os produtos</a>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 Ferramentas de Construção | Todos os direitos reservados</p>
+	</footer>
+</body>
+</html>
